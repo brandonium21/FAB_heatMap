@@ -39,7 +39,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/Brandonium21/Documents/projects/fablab_stuff/heatMap/heatMapEnv"
+VIRTUAL_ENV="/Users/Brandonium21/Documents/projects/fablab_stuff/heatMap/FAB_heatMap/heatMapEnv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

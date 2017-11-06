@@ -32,7 +32,7 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/Users/Brandonium21/Documents/projects/fablab_stuff/heatMap/heatMapEnv"
+set -gx VIRTUAL_ENV "/Users/Brandonium21/Documents/projects/fablab_stuff/heatMap/FAB_heatMap/heatMapEnv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH

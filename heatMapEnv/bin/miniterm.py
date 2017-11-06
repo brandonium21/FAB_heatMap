@@ -1,4 +1,4 @@
-#!/Users/Brandonium21/Documents/projects/fablab_stuff/heatMap/heatMapEnv/bin/python2.7
+#!/Users/Brandonium21/Documents/projects/fablab_stuff/heatMap/FAB_heatMap/heatMapEnv/bin/python2.7
 #
 # Very simple serial terminal
 #
